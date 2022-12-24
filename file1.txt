@@ -1,3 +1,7 @@
 file1 oluşturuldu. eklenmeye hazır.
 ikinci satır-dev1
+ikinci satır-dev2
+
+
+
 
